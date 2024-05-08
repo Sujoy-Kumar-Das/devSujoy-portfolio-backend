@@ -1,0 +1,155 @@
+[
+  {
+    "title": "Job Safari",
+    "live": "https://jobsafariauth.web.app/",
+    "image": "https://i.ibb.co/x7LSTf6/jobsafari-min.png",
+    "description": "Job Safari is a platform to find dream jobs and great hires. You can also share helpful career blogs to assist job seekers in making better professional career choices.",
+    "code": {
+      "frontend": "https://github.com/Sujoy-Kumar-Das/JobSafari-client",
+      "backend": "https://github.com/Sujoy-Kumar-Das/jobSafari-server"
+    },
+    "features": [
+      { "id": 1, "title": "Fully responsive for all devices." },
+      { "id": 2, "title": "Created a secure login system with Firebase." },
+      { "id": 3, "title": "Role-based authentication with Firebase." },
+      {
+        "id": 4,
+        "title": "Router privacy ensured. Users can only access their routes, need login to apply for jobs, and can't view profiles without logging in."
+      },
+      {
+        "id": 5,
+        "title": "Users can create, delete, and update job posts and blogs. They can also view, create, and update their resumes, and download their resume in PDF format."
+      },
+      {
+        "id": 6,
+        "title": "Users can apply for and cancel a job. A user can apply for an individual job for once."
+      }
+    ],
+    "technology": [
+      { "id": 1, "title": "React" },
+      { "id": 2, "title": "React Router Dom" },
+      { "id": 3, "title": "React Hook Form" },
+      { "id": 4, "title": "Tailwind CSS" },
+      { "id": 5, "title": "Daisy UI" },
+      { "id": 6, "title": "Node JS" },
+      { "id": 7, "title": "Express JS" },
+      { "id": 8, "title": "MongoDB" },
+      { "id": 9, "title": "Firebase" },
+      { "id": 10, "title": "Sweet  Alert2" }
+    ],
+    "images": [
+      { "id": 1, "link": "https://i.ibb.co/hK2WL8W/1-min.png" },
+      { "id": 2, "link": "https://i.ibb.co/5k2dxWK/2-min.png" },
+      { "id": 3, "link": "https://i.ibb.co/BVgS7BT/3-min.png" },
+      { "id": 4, "link": "https://i.ibb.co/zh4jm2K/4-min.png" },
+      { "id": 5, "link": "https://i.ibb.co/qnMVbQz/5-min.png" },
+      { "id": 6, "link": "https://i.ibb.co/8KBS4Hc/6-min.png" },
+      { "id": 7, "link": "https://i.ibb.co/sjNxVWK/7-min.png" },
+      { "id": 8, "link": "https://i.ibb.co/5xvsVPq/8-min.png" },
+      { "id": 9, "link": "https://i.ibb.co/RbFh7gC/9-min.png" },
+      { "id": 10, "link": "https://i.ibb.co/TqZL0zx/10-min.png" }
+    ]
+  },
+  {
+    "title": "HelpLink",
+    "live": "https://shiny-palmier-504022.netlify.app/",
+    "image": "https://i.ibb.co/CVWLkTT/Screenshot-from-2024-05-06-20-50-26-min-4.png",
+    "description": "HelpLink is a charity site. Where users can donate to make a change.",
+    "code": {
+      "frontend": "https://github.com/Sujoy-Kumar-Das/helpLink",
+      "backend": "https://github.com/Sujoy-Kumar-Das/helpLInk-server"
+    },
+    "features": [
+      {
+        "id": 1,
+        "title": "Simple and minimalistic UI with fully responsive for all devices and Enhanced UX with animations."
+      },
+      { "id": 2, "title": "Created a secure custom login system." },
+      {
+        "id": 3,
+        "title": "Router privacy ensured. Users can only access their routes and need to log in to add a review."
+      },
+      {
+        "id": 4,
+        "title": "Utilize Dark Mode for a better user experience."
+      },
+      {
+        "id": 5,
+        "title": "Utilize the dashboard with full dynamic analytics and a dynamic leader board based on donations."
+      },
+      {
+        "id": 6,
+        "title": "Utilize CRUD operation. Users can create, update and delete donations, and testimonials."
+      }
+    ],
+    "technology": [
+      { "id": 1, "title": "React" },
+      { "id": 2, "title": "React Router Dom" },
+      { "id": 3, "title": "React Hook Form" },
+      { "id": 4, "title": "MUI" },
+      { "id": 11, "title": "Redux" },
+      { "id": 12, "title": "RTK Query" },
+      { "id": 5, "title": "ZOD" },
+      { "id": 6, "title": "Node JS" },
+      { "id": 7, "title": "Express JS" },
+      { "id": 8, "title": "MongoDB" },
+      { "id": 9, "title": "Firebase" },
+      { "id": 10, "title": "Sweet  Alert2" }
+    ],
+    "images": [
+      { "id": 1, "link": "https://i.ibb.co/GVG3rSX/1-min.png" },
+      { "id": 2, "link": "https://i.ibb.co/XyBgVG0/2-min.png" },
+      { "id": 3, "link": "https://i.ibb.co/nzmP1ny/3-min.png" },
+      { "id": 4, "link": "https://i.ibb.co/9n8f1nq/4-min.png" },
+      { "id": 5, "link": "https://i.ibb.co/Zd3986B/5-min.png" },
+      { "id": 6, "link": "https://i.ibb.co/t2yYT9w/6-min.png" },
+      { "id": 7, "link": "https://i.ibb.co/Tq7W67h/7-min.png" }
+    ]
+  },
+  {
+    "title": "Resale Station",
+    "live": "https://resell-shop-fullstack.web.app/",
+    "image": "https://i.ibb.co/GPYdPNS/Screenshot-from-2024-05-06-20-57-45-min.png",
+    "description": "Resale station is a platform where a user can sell their used products.",
+    "code": {
+      "frontend": "https://github.com/Sujoy-Kumar-Das/resale-shop-client",
+      "backend": "https://github.com/Sujoy-Kumar-Das/resale-shop-server"
+    },
+    "features": [
+      {
+        "id": 1,
+        "title": "Simple and minimalistic UI with fully responsive for all devices."
+      },
+      { "id": 2, "title": "Created a secure login system with Firebase." },
+      {
+        "id": 3,
+        "title": "Router privacy ensured. Users can only access their routes and need log in to order a product."
+      },
+      {
+        "id": 4,
+        "title": "Utilize payment method with stripe."
+      }
+    ],
+    "technology": [
+      { "id": 1, "title": "React" },
+      { "id": 2, "title": "React Router Dom" },
+      { "id": 3, "title": "React Hook Form" },
+      { "id": 4, "title": "Tailwind CSS" },
+      { "id": 5, "title": "Daisy UI" },
+      { "id": 6, "title": "Node JS" },
+      { "id": 7, "title": "Express JS" },
+      { "id": 8, "title": "MongoDB" },
+      { "id": 9, "title": "Firebase" },
+      { "id": 10, "title": "Sweet  Alert2" }
+    ],
+    "images": [
+      { "id": 1, "link": "https://i.ibb.co/wCtjZns/1-min.png" },
+      { "id": 2, "link": "https://i.ibb.co/hVwG9Ht/2-min.png" },
+      { "id": 3, "link": "https://i.ibb.co/nzmP1ny/3-min.png" },
+      { "id": 4, "link": "https://i.ibb.co/9n8f1nq/4-min.png" },
+      { "id": 5, "link": "https://i.ibb.co/Zd3986B/5-min.png" },
+      { "id": 6, "link": "https://i.ibb.co/t2yYT9w/6-min.png" },
+      { "id": 7, "link": "https://i.ibb.co/Tq7W67h/7-min.png" }
+    ]
+  }
+]
